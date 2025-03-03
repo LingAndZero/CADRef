@@ -14,7 +14,7 @@ pip install -r requirements.txt
 We evaluate on both large-scale and small-scale OOD datasets.
 
 - Large-scale OOD datasets: 
-    - In-distribution dataset: **ImageNet**
+    - In-distribution dataset: **ImageNet-1k**
     - Out-of-distribution datasets: **iNaturalist, SUN, Places, Textures, OpenImages-O, ImageNet-O, SSB-hard, NINCO**
 - Small-scale OOD datasets:
     - In-distribution dataset: **CIFAR-10, CIFAR-100**
@@ -23,6 +23,8 @@ We evaluate on both large-scale and small-scale OOD datasets.
 - Download the datasets and put them in the `data` folder.
 
 ### 3. Pre-trained Model Preparation
+For the **CIFAR-10** and **CIFAR-100** benchmarks, we provide the pre-trained checkpoints in the `checkpoints` folder.
+For the **ImageNet-1k** benchmark, we utilize the well-trained model provided by *torchvision*.
 
 ### 4. Run the code
 
@@ -62,4 +64,8 @@ options:
                         number of workers
   --logit_method {Energy,MSP,MaxLogit,GEN}
                         logit method for CADRef
+```
+
+## Citation
+```
 ```

@@ -1,6 +1,6 @@
 # CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging
 
-This repository hosts the source code for the paper titled "*CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging*", which has been accepted for publication at the **Conference on Computer Vision and Pattern Recognition (CVPR) 2025**.
+This repository hosts the source code for the paper titled "[*CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging*](https://arxiv.org/abs/2503.00325)", which has been accepted for publication at the **Conference on Computer Vision and Pattern Recognition (CVPR) 2025**.
 
 ## Getting Start
 

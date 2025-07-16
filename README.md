@@ -69,10 +69,10 @@ options:
 ## Citation
 ```
 @inproceedings{ling2025cadref,
-  title={CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging},
-  author={Ling, Zhiwei and Chang, Yachen and Zhao, Hailiang and Zhao, Xinkui and Chow, Kingsum and Deng, Shuiguang},
-  booktitle    = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages        = {4968--4977},
-  year         = {2025},
+  title = {CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging},
+  author = {Zhiwei Ling and Yachen Chang and Hailiang Zhao and Xinkui Zhao and Kingsum Chow and Shuiguang Deng},
+  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages = {4968--4977},
+  year = {2025},
 }
 ```
